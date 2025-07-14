@@ -23,8 +23,6 @@ A rich, gooey chocolate cake served warm with a scoop of vanilla ice cream.
 - Building clean, readable recipe pages
 - Writing simple, elegant frontend code
 
----
-
 ## Future Improvements
 - Add CSS styling for layout and visuals
 - Include JavaScript for timers or step-by-step interactivity
